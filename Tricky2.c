@@ -1,0 +1,12 @@
+//2.Find the output of the following program
+#include<stdio.h>
+int main()
+{
+int i=0;
+for(;i<=5;i++);
+printf("%d ",i);
+return 0;
+}
+
+//O/P
+// 6
