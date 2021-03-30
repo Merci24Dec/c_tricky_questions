@@ -1,0 +1,14 @@
+//38.Find the output of the following program
+#include<stdio.h>
+int main()
+{
+int x=10;
+do{
+x++;
+}while(x++>12);
+printf("%d",x);
+return 0;
+}
+
+//O/P
+// 12
