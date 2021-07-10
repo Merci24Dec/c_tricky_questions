@@ -15,3 +15,5 @@ void main()
     }
     printf("%d %d",cout,cout1);
 }
+//o/p
+//4 8
