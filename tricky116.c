@@ -7,3 +7,5 @@ int main()
     printf("%d",num);
     return 0;
 }
+//o/p
+//1
